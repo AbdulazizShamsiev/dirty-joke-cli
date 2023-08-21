@@ -1,0 +1,23 @@
+{
+  "name": "cli-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.6.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.10",
+    "nanospinner": "^1.1.0",
+    "puppeteer": "^21.1.0"
+  }
+}
