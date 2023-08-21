@@ -1,4 +1,4 @@
-#Dirty-Joke
+Dirty-Joke
 Instagram automation tool work with Nodejs
 
 Usage:
@@ -14,6 +14,6 @@ Usage:
 4. Go to the directory and open .env file in Code editor for write your Instagram profil and password
 (Don't worry password do not share third party programms, it's only your computer)
 
-5. Now open terminal and run the program `node .` or `npm run start`
+5. Now open terminal and run the program ```node .``` or `npm run start`
 
 6. Don't forget hit the ⭐ button, If you have a github account
